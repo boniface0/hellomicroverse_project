@@ -11,7 +11,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
@@ -44,9 +43,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,6 +85,27 @@ To run the project, execute the following command:
 - [ ] **responsive design**
 - [ ] **demo project**
 - [ ] **personal profilo**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🤝 Contributing <a name="contributing"></a>
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project show your support
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank myself and my coding partiner for helping complete the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
